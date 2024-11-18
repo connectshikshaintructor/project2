@@ -1,0 +1,21 @@
+.s1{
+    text-align: center;
+    height: 400px;
+
+    h1{
+        padding-top: 100px;
+    }
+ 
+}
+
+
+.s2{
+    text-align: center;
+    background-color: rgb(221, 135, 42);
+    color: white;
+    padding: 20px;
+
+}
+button{
+    cursor: pointer;
+}
